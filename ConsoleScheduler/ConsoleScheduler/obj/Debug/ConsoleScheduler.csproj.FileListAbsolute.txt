@@ -1,0 +1,11 @@
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\obj\Debug\ConsoleScheduler.csprojAssemblyReference.cache
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\obj\Debug\ConsoleScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\bin\Debug\ConsoleScheduler.exe.config
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\bin\Debug\ConsoleScheduler.exe
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\bin\Debug\ConsoleScheduler.pdb
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\bin\Debug\MySql.Data.dll
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\bin\Debug\Google.Protobuf.dll
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\bin\Debug\MySql.Data.xml
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\obj\Debug\ConsoleScheduler.csproj.CopyComplete
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\obj\Debug\ConsoleScheduler.exe
+C:\Users\Anonymous\source\repos\ConsoleScheduler\ConsoleScheduler\obj\Debug\ConsoleScheduler.pdb
